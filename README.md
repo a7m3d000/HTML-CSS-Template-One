@@ -15,7 +15,7 @@
 # Programming languages ​​made by the site:
 ---
 
-Number  |  Programming Languages
+Index  |  Programming Languages
 ------- |  ---------------------
 0       |  HTML
 1       |  CSS
@@ -24,7 +24,7 @@ Number  |  Programming Languages
 
 
 # Libraries used in website design :
-Number  |  Libraries
+Index  |  Libraries
 ------- |  ---------------------
 0       |  Font Awesome
 1       |  -----------
