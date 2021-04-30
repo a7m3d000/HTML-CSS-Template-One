@@ -297,7 +297,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translate(270px, 10px);
+    transform: translate(170px, 10px);
     font-weight: bold;
 
 }
