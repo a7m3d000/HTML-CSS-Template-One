@@ -24,7 +24,6 @@ Index  |  Programming Languages
 
 
 \
-\
 ## :pushpin: Libraries used to build the website :
 Index  |  Libraries
 ------- |  ---------------------
@@ -32,7 +31,6 @@ Index  |  Libraries
 1       |  -----------
 --------------------------------
 
-\
 \
 ## :pushpin: Website features :
   - Responsive Designe
