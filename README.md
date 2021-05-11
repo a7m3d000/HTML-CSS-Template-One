@@ -12,7 +12,9 @@
 
 
 
-## :pushpin: The programming languages ​​with which the website is made :
+## :pushpin: The programming languages ​​with which the website is made : \
+\
+\
 ---
 
 Index  |  Programming Languages
