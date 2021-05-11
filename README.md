@@ -12,7 +12,7 @@
 
 
 
-# :pushpin: The programming languages ​​with which the website is made :
+## :pushpin: The programming languages ​​with which the website is made :
 ---
 
 Index  |  Programming Languages
@@ -24,14 +24,14 @@ Index  |  Programming Languages
 
 
 
-# :pushpin: Libraries used to build the website :
+## :pushpin: Libraries used to build the website :
 Index  |  Libraries
 ------- |  ---------------------
 0       |  Font Awesome
 1       |  -----------
 --------------------------------
 
-# :pushpin: Website features :
+## :pushpin: Website features :
   - Responsive Designe
   - Fast Cashing
   - Nice Design
