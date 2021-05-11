@@ -1,3 +1,12 @@
+## :pushpin: Website features :
+  - Responsive Designe
+  - Fast Cashing
+  - Nice Design
+  - Regular code design
+  - Smooth & Fast 
+  
+  
+--
 ## :pushpin: The programming languages ​​with which the website is made : 
 ---
 
@@ -17,10 +26,4 @@ Index  |  Libraries
 1       |  -----------
 --------------------------------
 
---
-## :pushpin: Website features :
-  - Responsive Designe
-  - Fast Cashing
-  - Nice Design
-  - Regular code design
-  - Smooth & Fast 
+
