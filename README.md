@@ -6,6 +6,7 @@ Index  |  Programming Languages
 0       |  HTML
 1       |  CSS
 2       |  SASS
+3       |  PugJS
 --------------------------------
 
 
@@ -25,4 +26,5 @@ Index  |  Libraries
   - Nice Design
   - Regular code design
   - Smooth & Fast 
+  - Simple Code Thanks to PugJS & SASS Programming Languages
   
