@@ -1,0 +1,168 @@
+doctype 
+html(lang="en")
+    head 
+        meta(charset="UTF-8")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        title HTML & CSS-Temp-1
+
+        //- CSS Links
+        link(rel="stylesheet" href="css/main.css")
+        link(rel="stylesheet" href="css/normalize.css")
+        link(rel="stylesheet" href="css/all.min.css")
+
+        //- Google Fonts
+        link(rel="preconnect" href="https://fonts.gstatic.com")
+        link(href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap", rel="stylesheet")
+
+        link(rel="preconnect", href="https://fonts.gstatic.com")
+        link(href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap", rel="stylesheet")
+
+    body 
+        //- Header
+        .header
+            .container
+                .logo
+                    i(class="fab fa-redhat")
+                    .name Noah
+                .links0
+                    ul 
+                        li: a(href="#services") Services
+                        li: a(href="#portflio") Portfolio
+                        li: a(href="#about") About
+                        li: a(href="#contact") Contact
+                .links
+                    i(class="fas fa-grip-lines icon")
+                    ul
+                        li: a(href="#services") Services
+                        li: a(href="#portflio") Portfolio
+                        li: a(href="#about") About
+                        li: a(href="#contact") Contact
+
+        //- Landing
+        .landing 
+            .intro-text 
+                h1 Hello There...
+                p 
+                    | Get your service
+                    | Complete and highly professional
+        
+        //- Features
+        .features 
+            .container 
+                .feat 
+                    img(src="imgs/Icons/web.png", alt="")
+                    h3 Web Developer
+                    p Professional & Respinsive Websites
+                .feat 
+                    img(src="imgs/Icons/graphic.png", alt="")
+                    h3 Grapgic Designer
+                    p Proffesional Grapgic Design
+                .feat 
+                    img(src="imgs/Icons/writing.png", alt="")
+                    h3 Writer
+                    p Proffesiona Articles
+                .feat 
+                    img(src="imgs/Icons/video.png", alt="")
+                    h3 Video Editing
+                    p Proffesional & Height Quality Videos
+        
+        //- Sevices
+        div(class="services", id="services")
+            .container 
+                h2.special-heading Services
+                p Don't Be Lazy, Be Activr
+                .services-content 
+                    .col 
+                        .serv 
+                            i(class="fas fa-code")
+                            .text 
+                                h3 Web Development
+                                p 
+                                    | Website design that is professional
+                                    | and responsive to all devices
+                        .serv 
+                            i(class="fas fa-palette fa-2x")
+                            .text 
+                                h3 Graphic Design
+                                p 
+                                    | Professional design and editing of 
+                                    | images with high quality
+                    .col
+                        .serv 
+                            i(class="fas fa-pencil-alt")
+                            .text 
+                                h3 Writing
+                                p 
+                                    | Writing professional and elaborate articles 
+                        .serv 
+                            i(class="fas fa-photo-video")
+                            .text 
+                                h3 Video Editing
+                                p 
+                                    | Editing the videos professionally 
+                                    | and in high quality
+                    .col 
+                        div(class="image img-col")
+                            img(src="imgs/Basic/services-photo.jpeg", alt="")
+        
+        //- Portfolio
+        div(class="portfolio", id="portflio")
+            .container 
+                h2.special-heading Portfolio
+                p Don't Be Lazy, Be Activr
+                .port-content 
+                    .col 
+                        .port 
+                            img(src="imgs/Protfolio/one.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/two.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/three.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/four.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/five.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/six.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/seven.png", alt="")
+                        .port 
+                            img(src="imgs/Protfolio/eight.png", alt="")
+        
+        //- About
+        div(class="about", id="about")
+            .container 
+                h2.special-heading About
+                p Don't Be Lazy, Be Activr
+                .about-content 
+                    .photo 
+                        img(src="imgs/Basic/aboute-photo.jpeg", alt="")
+                    .info 
+                        p.p1 
+                            | My name is : #[strong Ahmed Mohamed].#[br]
+                            | I am a student at Faculty of Enngineering Qina.#[br]
+                            | I live Programming and Writing a Code is my Hoppy.
+                        p.p2 
+                            | I like Video Editing, Writing, Graphic Design, Data Sciense and Dealing With  
+                            | Data and finally Web Developing
+        
+        //- Contact
+        div(class="contact", id="contact")
+            .container 
+                h2.special-heading Contact
+                p Don't Be Lazy, Be Activr
+                .info 
+                    span.cont Contact Me By E-mail :
+                    a(href="#", class="email") my-name@mail.com
+                .social 
+                    | Find Us On ocial Networks
+                    i(class="fab fa-youtube")   
+                    i(class="fab fa-facebook")   
+                    i(class="fab fa-twitter")
+
+        //- Footer
+        .footer 
+            | &copy; 2021 #[span Ahmed Mohamed] All Right Reserved   
+
+
