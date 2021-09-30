@@ -1,30 +1,11 @@
-## :pushpin: The programming languages ​​with which the website is made : 
+## :clipboard: Basic Info
+#### :bulb: Project Name: [**The Coder**](https://a7m3d000.github.io/L--The-Coder/)
+#### :bulb: Project Type: **Website** 
+#### :bulb: Project Level: **Low** -> **L**
+
 ---
 
-Index  |  Programming Languages
-------- |  ---------------------
-0       |  HTML
-1       |  CSS
-2       |  SASS
-3       |  PugJS
---------------------------------
-
-
---
-## :pushpin: Libraries used to build the website :
-Index  |  Libraries
-------- |  ---------------------
-0       |  Font Awesome
-1       |  -----------
---------------------------------
-
-
---
-## :pushpin: Website features :
-  - Responsive Designe
-  - Fast Cashing
-  - Nice Design
-  - Regular code design
-  - Smooth & Fast 
-  - Simple Code Thanks to PugJS & SASS Programming Languages
-  
+## :clipboard: Basic Languages
+ - [x] HTML
+ - [x] CSS
+ - [x] JavaScript
