@@ -36,4 +36,4 @@ This is a [**The Coder**](https://cod3r.vercel.app/) Website, Nice and Very Simp
 
 # Website Screenshot
 
-![The Coder]()
+![The Coder](https://github.com/ahmedmohmd/the-coder/blob/main/app-screenshot.png?raw=true)
